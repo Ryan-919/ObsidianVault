@@ -1,0 +1,274 @@
+{
+  "main": {
+    "id": "59040afbccac1f0d",
+    "type": "split",
+    "children": [
+      {
+        "id": "96b80cebf3245376",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bcb25ec0cf058db4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Theme Playground.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Theme Playground"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5a250f356131111a",
+    "type": "split",
+    "children": [
+      {
+        "id": "e9383654e37d1d08",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dcc451ca44502df5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "2855b930ecec5b8a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "73b10402fb935389",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 315.5
+  },
+  "right": {
+    "id": "c7dc45059a3db439",
+    "type": "split",
+    "children": [
+      {
+        "id": "17899c935458eb80",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3077377bd5556d7c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Miscellaneous Math.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Miscellaneous Math"
+            }
+          },
+          {
+            "id": "102dafc75d330705",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Miscellaneous Math.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Miscellaneous Math"
+            }
+          },
+          {
+            "id": "b80da9bc99611efa",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "67cce88b94a62dbb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Miscellaneous Math.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Miscellaneous Math"
+            }
+          },
+          {
+            "id": "eb34eea65811e418",
+            "type": "leaf",
+            "state": {
+              "type": "periodic-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "c32b005e701926c9",
+            "type": "leaf",
+            "state": {
+              "type": "periodic-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "726734650a9dfce8",
+            "type": "leaf",
+            "state": {
+              "type": "periodic-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "ce89475d4fda1e01",
+            "type": "leaf",
+            "state": {
+              "type": "periodic-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "5dbca953fffb056d",
+            "type": "leaf",
+            "state": {
+              "type": "periodic-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 413.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:New drawing": false
+    }
+  },
+  "active": "bcb25ec0cf058db4",
+  "lastOpenFiles": [
+    "06 - CS50/Week 1/helloWorld.c.md",
+    "Theme Playground.md",
+    "04 - Calculus III/16.8 Stoke's Theorem (Homework).md",
+    "Excalidraw/Drawing 2025-07-16 11.54.46.excalidraw.md",
+    "Excalidraw/Attachments/cropped_cropped_16.8-StokesThm.md",
+    "Excalidraw/attachments/cropped_cropped_16.8-StokesThm.md",
+    "Excalidraw/attachments/cropped_16.8-StokesThm.md",
+    "Excalidraw/Attachments/cropped_16.8-StokesThm.md",
+    "03 - AP Chemistry/Unit 9 - Electrochemistry/GalvanicCellDiagram.md",
+    "03 - AP Chemistry/Unit 9 - Electrochemistry/Galvanic (Voltaic) Cells.md",
+    "Excalidraw/helpingCollinWithPhysics.md",
+    "Excalidraw/Calculus III Unit 4 Review.md",
+    "07 - College Prep/College Packing List.md",
+    "00 - Templates/CS50 Note.md",
+    "Miscellaneous/Miscellaneous Math.md",
+    "07 - College Prep/ryan-cmu.md",
+    "06 - CS50/Week 1/credit.c.md",
+    "06 - CS50/Week 1/mario.c.md",
+    "Attachments/Pasted image 20250715220749.png",
+    "Attachments/Pasted image 20250715220630.png",
+    "Attachments",
+    "00 - Templates/Chemistry Note.md",
+    "07 - College Prep/CMU Course Registration.md",
+    "03 - AP Chemistry/Unit 6 - Thermodynamics/Enthalpy.md",
+    "05 - AP Physics C/FRQ Pendulum.md",
+    "Miscellaneous/Significance Test.md",
+    "Miscellaneous",
+    "07 - College Prep/July 9th Group Advisory Meeting.md",
+    "07 - College Prep",
+    "05 - AP Physics C/Lab.md",
+    "05 - AP Physics C/WIMP Collision Problem.md",
+    "Untitled.canvas",
+    "06 - CS50/Week 1",
+    "06 - CS50",
+    "Excalidraw/attachments/invertedChemEquationSheet.pdf",
+    "Excalidraw/attachments/MAT273-Final-Review (PDF).pdf",
+    "Excalidraw/attachments/inverted2007FRQAcidBase.pdf",
+    "Excalidraw/attachments/inverted2005FRQAcidBase.pdf",
+    "Excalidraw/attachments/invertedSuperProblemAcidBase.pdf",
+    "Excalidraw/attachments/Pasted Image 20250429170535_277.png",
+    "Excalidraw/attachments/Pasted Image 20250428224942_555.png",
+    "03 - AP Chemistry/Review/Unit 1-3/Attempted/Partially Answered Chapter 3.png",
+    "03 - AP Chemistry/Review/Unit 1-3/Attempted/Atomic Structure FRQ.png",
+    "03 - AP Chemistry/Review/Unit 1-3/Attempted/Bonding FRQ.png",
+    "03 - AP Chemistry/Review/Unit 1-3/Attempted/Bonding and Phases MCQ Practice.png",
+    "03 - AP Chemistry/Unit 6 - Thermodynamics/Images/Thermo Problem 1.png",
+    "03 - AP Chemistry/Unit 6 - Thermodynamics/Images/Enthalpy Problem 1.png"
+  ]
+}

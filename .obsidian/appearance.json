@@ -1,0 +1,12 @@
+{
+  "theme": "obsidian",
+  "cssTheme": "Border",
+  "accentColor": "#488989",
+  "enabledCssSnippets": [],
+  "monospaceFontFamily": "",
+  "baseFontSizeAction": true,
+  "baseFontSize": 16,
+  "showViewHeader": false,
+  "showRibbon": true,
+  "translucency": true
+}

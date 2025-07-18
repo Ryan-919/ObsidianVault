@@ -1,0 +1,137 @@
+---
+date: 2024-10-16
+unit: 
+status: "[[InProgress]]"
+---
+## Acid Base Reactions
+### Acids and Bases
+- #### Definition
+	- ###### Acids
+		- Substance that releases hydrogen ions (H+) when dissolved in water
+		- Transfers protons
+		- have hydrogen to donate
+	- ###### Bases
+		- have lone pair and/or negative charge to accept H
+- #### Types
+	- ###### Arrhenius
+		- acid produces H+
+		- base produces OH-
+	- ###### Bronsted-Lowry
+		- acid donates H+
+		- base accepts H+
+	- ###### Lewis
+		- acid accepts e- (lone pair)
+		- base donates e- pair
+- #### Common Strong Acids and Bases
+	- ###### Strong Acids
+		- **SO**: Sulfuric acid ($H_{2}SO_{4}$) 
+		- **I**: Hydroiodic acid ($HI$) 
+		- **Brought**: Hydrobromic acid ($HBr$) 
+		- **No**: Nitric acid ($HNO_{3}$) 
+		- **Clean**: Hydrochloric acid ($HCl$) 
+		- **Clothes**: Perchloric acid ($HClO_{4}$)
+	- ######  Bases
+		- **Group 1 hydroxides**
+			- Lithium hydroxide ($LiOH$)
+			- Sodium hydroxide ($NaOH$)
+			- Potassium hydroxide ($KOH$)
+			- Rubidium hydroxide ($RbOH$)
+			- Caesium hydroxide ($CsOH$)
+		- **Heavy group 2 hydroxides**
+			- Barium hydroxide ($Ba(OH)_2$)
+			- Strontium hydroxide ($Sr(OH)_2$)
+			- Calcium hydroxide ($Ca(OH)_2$)
+### Reactions
+- #### Bronsted-Lowry acid-base conjugate pairs
+	- ###### Conjugate acid
+		- Species formed after base accepts H<sup>+</sup>
+		- $NH_3 \rightarrow NH^+_4$
+		- $F^-\rightarrow HF$
+		- $H_2O \rightarrow H_3O^+$
+	- ###### Conjugate base
+		- $HCl \rightarrow Cl^-$
+		- $HC_2H_3O_2 \rightarrow C_2H_3O_2^-$
+		- $H_2O \rightarrow Cl^-$
+- #### 3 Types of AB Reactions
+	- ###### Acid-base neutralization reactions
+		- Acid + Base $\rightarrow$ Salt + Water
+		- **ex.** $2HCl + Mg(OH)_2 \rightarrow MgCl_2 + 2H_2O$
+	- ###### CB + CA
+		- Acid + Base $\rightarrow$ CB + CA
+			- The stronger a Bronsted-Lowry acid/base, the weaker its conjugate acid/base
+		- $HNO_3 + H_2O \rightarrow H_3O^+ + NO_3^-$
+	- ###### Hydrolysis
+		- Salt + Water $\rightarrow$ Acid + Base
+		- $CaCl_2 + 2HOH \rightarrow 2HCl + Ca(OH)_2$
+- #### Autoionization of Water
+	- ###### Definition
+		- proton is transferred from one water molecule to another to produce a hydronium ion (H₃O⁺) and a hydroxide ion (OH⁻)
+	- ###### Formula
+		- $H_2O_{(l)}+H_2O_{(l)} \rightarrow + H_3O^+ + OH^-_{(aq)}$
+	- ###### Dissociation constant for water
+		- $K_w = [H_3O^+][OH^-]$
+		- For pure water at 25° C, $[H_3O^+]=[OH^-]=1.00*10^{-7}\ M$
+	- #### pH and acidity/basicity
+		- Because $[H_3O^+]=[OH^-]$ when a solution is neutral, we can compare these two to determine basicity and acidity
+			- **Neutral:** $[H_3O^+]=[OH^-] \rightarrow pH=7$
+			- **Acidic:** $[H_3O^+]>[OH^-] \rightarrow pH<7$
+			- **Basic:** $[H_3O^+]<[OH^-] \rightarrow pH>7$
+			- 
+
+### Titrations
+- #### Definition & Goal
+	- ###### Definition 
+		- Analytical lab technique where a volume of known molarity is added to a volume of unknown molarity
+	- ###### Goal
+		- determine the concentration of the known
+- #### Procedure
+	- ###### Placing substances
+		- Place either the substance with the known molarity in the conical flask and unknown in the burette or vice versa
+		- **ex.** unknown NaOH in Burette and 10 ML 1.0 M HCl in the flask
+	- ###### Indicator
+		- Place pH indicator in the flask
+		- **ex.** phenolphthalein $\rightarrow$ color changes ~pH 8
+	- ###### Formula
+		- Write the formula when 2 substances are combined
+		- **ex.** $NaOH + HCl \rightarrow NaCl + H_2O$
+			- NaCl is a neutral salt and has pH of 7
+	- ###### Drip substance from burette
+		- Slowly drip substance from the burette until the color changes in the flask
+			- Volume needed to achieve this is what is needed to neutralize the substance in the flask
+- #### Titration Curves
+	- ###### Equivalence point
+		- where moles of acid = moles of base
+	- ###### Half equivalence point
+		- the point where half of the titrant necessary to neutralize the analyte has been added
+	- ###### Image
+		- ![[Titration Curve.png]]
+- ####  Stoich Calculations
+	- ###### ∆Volume
+		- Calculate volume of substance added
+		- **ex.** NaOH was added going from 10.5 to 30.8 mL (20.3 mL added)
+	- ###### Initial Moles
+		- Calculate moles of acid in the flask (before base has been added)
+	- ###### Moles Added
+		- Calculate moles of base added based on titration curve
+	- ###### Molarity
+		- Calculate molarity of the unknown base
+	- ###### Faster Method
+		- $M_AV_A = M_BV_B$
+			- $M_A$ - acid molarity
+			- $V_B$ - volume of acid
+			- $M_B$ - base molarity
+			- $V_B$ - volume of base
+		- Only works for titrations **at the equivalence point**
+- #### 3 Types of Titrations
+	- ###### Acid-Base Titrations
+		- indicator that changes color at a certain pH 
+		- used to determine the molarity of an unknown acid or base
+	- ###### Redox Titrations
+		- oxidation state of a metal ion changes, resulting in a color change
+	- ###### Precipitation Titrations
+		- formation of a precipitate and/or its color changes signals end point of a reaction
+
+
+## References
+[periodic table](https://www.foxxlifesciences.com/pages/periodic-table-of-elements-chart)
+

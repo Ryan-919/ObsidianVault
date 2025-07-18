@@ -1,0 +1,24 @@
+{
+  "spellcheck": false,
+  "spellcheckDictionary": [
+    "electropositive",
+    "tropositive** a"
+  ],
+  "alwaysUpdateLinks": true,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "promptDelete": false,
+  "vimMode": true,
+  "readableLineLength": true,
+  "showLineNumber": true,
+  "attachmentFolderPath": "./Attachments",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Miscellaneous",
+  "showInlineTitle": true,
+  "rightToLeft": false
+}

@@ -1,0 +1,58 @@
+---
+date: 2024-09-28
+status: "[[InProgress]]"
+---
+- #### Overview 
+	- Hamlet's introspection causes him to delay his approach as he questions his own moral compass and the concepts of death, fate, and judgement. 
+	- His inability to organize his thoughts causes an apparent madness
+- #### Innocent Before Proven Guilty
+	- Despite being fired up by the ghost in the beginning, takes his time and only decides to kill when he has certain proof
+		- **Ironically**, he kills Polonius without concrete proof
+	- Even though the ghost says that Claudius is guilty, Hamlet recognizes that cold-blooded murder is not the answer
+	- Hamlet Is **cautious** and **honourable** for waiting until Claudius displays guilt during the play to decide to kill him
+		- Hamlet asks Horatio to confirm this as Hamlet realizes his biases
+- #### Abandonment of Caution
+	- After noticing Claudius display guilt during the play, Hamlet abandons his caution and commits to his quest for vengeance
+		- When he notices movement behind the tapestry, he strikes without reserve, killing Polonius
+	- **Cautious yet brash**
+- #### Quotes
+	- ###### "I'll have grounds more relative than this"
+		- **- Hamlet Act 2, Scene 2**
+		- Shows Hamlet's constant deliberation on murder and whether the ghost is correct
+		- This quote means that Hamlet will have to have more evidence that he's doing the right thing before wholeheartedly committing to his revenge
+	- ###### "I did love you once"
+		- **Later clarifies**: "You should not have believed me, for virture cannot so inoculate our old stock but we shall relish of it. I loved you not"
+		- **- Hamlet Act 3, Scene 1**
+		- Essentially telling Ophelia that no one can ever change the bad things about themselves and that everyone is truly rotten at the core.
+		- This leads him to tell her, "I loved you not"
+			- This is despite giving her gifts and mementos showing his confusion
+	- ######  "The rest is silence"
+		- **- Hamlet Act 5, Scene 2**
+		- These final words by Hamlet shows his understanding of the end of his life
+			- To some degree, he accepts this
+		- However, he is nowhere closer to revealing his doubt. 
+		- **He still does not know:**
+			- whether the ghost was his father
+			- whether his course of revenge was the right one
+			- what will happen after he is dead
+		- Hamlet is left with more questions than he had before but seems to accept this and find some peace at last
+		- This quote shows that he may have gained some wisdom in that while his questions and doubts only grew, he accepts that he cannot ever be truly certain of anything
+- #### Decisiveness and the Burden of Quest Quotes
+	- ###### "The time is out of joint. O curséd spite, That ever I was born set it right"
+		- **- Hamlet Act 1, Scene 5**
+		- Hamlet assumes that the purpose of his life was being born to set right this one particular wrong
+		- Whatever ambitions he may have had prior to his encounter with the ghost vanish
+		- Suddenly finds himself with a single, profound motive that he must avenge his father
+		- **"Time is out of joint"** exaggerates the task and gives insight into how troubling this task will be for Hamlet
+	- ###### "To be, or not to be"
+		- **- Hamlet Act 3, Scene 1**
+		- Shows dissatisfaction with his life and that death is the solution
+		- Also shows the fact that he hasn't decided and there are benefits to living
+		- **Later, "conscience does make cowards of us all"**
+			- He believes that conscience makes him indecisive and cowardly
+			- However, conscience also makes him brave as it what is making him continue to live in spite of his struggles 
+		- This could also refer to the burden of action and not death at all
+			- By being, or acting, we risk opening ourselves up to new experiences some which may not invite positive feelings, may attract the exact opposite
+			- It is a risk we take (like asking for a raise)
+			- If we do not act (or not be), we maintain our state of comfort 
+				- won't risk negative feelings, but also won't achieve anything new

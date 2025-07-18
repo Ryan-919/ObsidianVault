@@ -1,0 +1,158 @@
+---
+date: 2024-09-08
+unit: "[[ChemReview]]"
+status: "[[InProgress]]"
+---
+## Periodic Trends
+### Atomic/Ionic Radius
+- #### Periodic Trend
+	- Increases **down** the periodic table because of increasing energy level
+	- Increases **right to left** because of lower number of protons means lower charge $q_{1}\ and\ q_{2}$ means lower $F_{attraction}$ from Coulomb's Law meaning less condensed atom
+		- **Shielding effect** - electrons on the valence shell are repelled by electrons in lower energy levels
+- #### Atomic Radius Examples
+	- ###### Hydrogen vs. Helium
+		- **Hydrogen** has a bigger atomic radius (lower atomic charge)
+	- ###### Lithium vs. Hydrogen
+		- **Lithium** has a bigger atomic radius (greater energy level, shielding effect)
+	- ###### Order from smallest to largest: Cl, Mg, P
+		- **Cl ⇾ P ⇾ Mg**
+- #### Ionic Radii
+	- Also increases **down** the periodic table and **right to left**
+	- Generally **cations are smaller** due to having less electrons and in turn **anions are larger**.
+- #### Ionic Radii Examples
+	- ###### Li vs Li<sup>+</sup>
+		- **Li** has a bigger radius due to having a second energy level
+			- **Li** electron configuration: 1s<sup>2</sup> 2s<sup>1</sup>
+			- **Li<sup>+</sup>** electron configuration: 1s<sup>2</sup>
+	- ###### N vs N<sup>-3</sup>
+		- N<sup>-3</sup> has a bigger radius due to having more electrons in the second shell which repel each other, expanding the radius
+	- ###### F<sup>-</sup>, Mg<sup>+2</sup>, Ne, Na<sup>+</sup>, O<sup>-2</sup>
+		- All isoelectronic ions meaning they have the same electron configuration
+		- Anions are generally smaller 
+		- Increasing atomic number decreases radius (Coulomb's Law where increasing charge increases attractive force between the nucleus and electrons)
+		- Therefore: **Mg<sup>+2</sup> < Na<sup>+</sup> < Ne < F<sup>-</sup> < O<sup>-2</sup>**
+
+### Electronegativity
+- #### Periodic Trend
+	- ###### Definition and General Trend 
+		- Electronegativity is the ability of an atom to attract an electron to itself
+		- Increases **up** and **to the right** towards Fluorine 
+			- Increases at a higher rate upwards than rightwards
+	- ###### Rightward trend
+		- **Metals** are on the left side of the periodic table while **nonmetals** on the right
+		- **Metals** tend to be **electropositive** and give away electrons (lower electronegativity)
+		- **Nonmetals** tend to form **anions** and take electrons (higher electronegativity)
+		- **Coulomb's Law**: atomic number increases rightward meaning higher nuclear charge meaning higher force of attraction
+	- ###### Upward trend
+		- Lower energy levels meaning valence electrons are closer to the nucleus.
+		- Coulomb's Law states that lower distance means greater force of attraction
+	- ###### Exceptions
+		- No electronegativity values
+		- **Noble gases** - full valence shell and stable
+		- **Lanthanides and Actinides** - usually don't conform to periodic trends
+- #### Example
+	- ###### Order Si, Mg, Cl, Al
+		- Same row so simply follow the trend
+		- **Mg < Al < Si < Cl**
+	- ###### Sn, Ge, Pb, C
+		- Same column so simply follow the trend
+		- **Pb, Sn < Ge < C**
+	- ###### Si vs. N
+		- Diagonal trend
+		- **Si < N**
+	- ###### N vs. S
+		- Electronegativity increases more per up 1 row and per right 1 column
+		- So **S < N**
+
+### Ionization Energy
+- #### Periodic Trend
+	- The energy required to remove an electron from a gaseous atom
+	- Generally easier to remove an electron from a metal than a nonmetal
+	- Increases **up** and **to the right** towards Helium
+	- ###### Rightward Trend
+		- **Coulomb's Law**: Increasing nuclear charge means greater force of attraction between nucleus and electrons thus, more energy is required to remove an electron
+	- ###### Upward Trend
+		- **Coulomb's Law**: Lower valence energy level means smaller distance between nucleus and electrons thus, greater force of attraction 
+- #### Examples
+	- ###### Li vs. Na
+		- **Li** because lower energy level ⇾ less distance ⇾ higher force of attraction
+	- ###### Be vs. B
+		- Seems like B would be greater, however **Be is greater**
+		- The electron configuration for Be ends with 2s<sup>2</sup> while B ending with 2p<sup>1</sup>
+		- 2p sublevel is farther away from the nucleus meaning lower force of attraction
+		- Same dip occurs when going from **Mg to Al** and **Ca to Ga**
+- #### Exceptions
+	- Already went over Be vs B, Mg vs Al, and Ca vs Ga in the previous example
+	- ###### N vs. O
+		- N > O despite having a lower nuclear charge
+		- Electron configuration for N ends with 2p<sup>3</sup> vs O ending with 2p<sup>4</sup>
+			- **N**: <u>↑ </u>  <u>↑ </u>  <u>↑ </u>
+			- **O**: <u>↑↓</u>  <u>↑ </u>  <u>↑ </u>
+		- The electron's in the electron pair in oxygen repel each other making it easier to remove 1 electron
+		- **Similar exceptions**
+			- Phosphorus (P) vs. Sulfur (S)
+			- Beryllium (Be) vs. Boron (B)
+			- Magnesium (Mg) vs. Aluminum (Al)
+			- Zinc (Zn) vs. Gallium (Ga)
+			- Arsenic (As) vs. Selenium (Se):
+- #### Ionization Energy After the First Electron
+	- ###### Same Energy Level
+		- Increases from 1st ⇾ 2nd ⇾ 3rd... electron due to less shielding occuring
+		- Greater force of attraction from the nucleus of the cation
+	- ###### Change in Energy Level
+		- Sharp increase as there is a drop in distance between the nucleus and electron being removed meaning greater force of attraction
+
+### Electron Affinity
+- #### Periodic Trend
+	- ###### Definition and General Trend:
+		- Associated with the energy change that occurs when adding an electron to a gaseous atom
+		- **Opposite of ionization energy**
+		- Generally **increases towards the right**, but there are exceptions
+	- ###### Nonmetals
+		- Nonmetals tend to take electrons and when an electron is added to one, energy is released as it becomes more stable
+		- When energy is released it is an **exothermic reaction**
+		- **Halogens** (F, Cl, Br, I, At, Ts) are the **most exothermic** in terms of electron affinity
+	- ###### Metals
+		- Metals tend to give electrons so when an electron is added to one, it is less exothermic, sometimes requiring electron
+		- Moving to a more unstable form requires energy
+	- ###### 76 45 13 28
+		- Group numbers ordered from most exothermic to least
+			- Group 7 is the most exothermic group
+			- Then group 6, 4, and so on
+			- Most elements in group 2 or 8 are endothermic, requiring energy to add an electron
+		- **Why is group 4 before 5?**
+			- Elements in group 5 end with a half-filled configuration (p<sup>3</sup>)
+				- half-filled configurations are more stable so adding an electron would be more difficult: **stable form ⇾ unstable form**
+			- Elements in group 4 end with a p sublevel just short of half-filled
+				- adding an electron would create a fairly stable ion
+			- **Example: C vs. N**
+				- C ends in 2p<sup>2</sup>: <u>↑ </u>  <u>↑ </u>  <u>_ </u>
+				- N ends in 2p<sup>3</sup>: <u>↑ </u>  <u>↑ </u>  <u>↑ </u>
+				- If we were to add an electron to N, it would make a pair of electrons that **repel** each other 
+					- this leads to **less of an exothermic reaction** compared to adding an electron to C
+		- **Why is group 1 before 5?**
+			- Similar reason to group 4 being before 5
+			- Elements in group 1 end with a half fillled s sublevel (s<sup>1</sup>)
+				- electron added would fill the s sublevel
+			- Elements in group 2 end with a fully-filled s sublevel (s<sup>2</sup>)
+				- electron added would go to the next sublevel
+			- **Filling a sublevel is easier** than adding an electron the next sublevel
+			- **Example: Na vs Mg**
+				- Na ends in 3s<sup>1</sup>: <u>↑ </u>  
+					- If we add an electron to Na, the sublevel is filled
+				- Mg ends in 3s<sup>2</sup>: <u>↑↓</u> 
+					- If we add an electron to Mg, it goes to the next, higher sublevel, requiring energy (endothermic)
+	- ###### Example: Cl, P, Ar, Mg, Na, Si
+		- Groups for each element
+			- Cl - 7
+			- P - 5
+			- Ar - 8
+			- Mg - 2
+			- Na - 1
+			- Si - 4
+		- From least exothermic to most: **Ar, Mg, Na, P, Si, Cl**
+		- 
+
+## References
+[periodic table](https://www.foxxlifesciences.com/pages/periodic-table-of-elements-chart)
+
